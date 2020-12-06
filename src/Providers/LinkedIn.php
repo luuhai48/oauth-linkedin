@@ -69,7 +69,7 @@ class LinkedIn extends Provider
         $registration
             ->provideTrustedEmail($email)
             ->suggestUsername($user->getFirstName())
-            ->provideAvatar($user->getAvatar())
+            ->provideAvatar($user->getImageUrl() ?? "")
             ->setPayload($user->toArray());
     }
 }
