@@ -2,7 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/luuhai48/oauth-linkedin.svg)](https://packagist.org/packages/luuhai48/oauth-linkedin)
 
-A [Flarum](http://flarum.org) extension. Login using Likedin, extends FoF/Oauth
+A [Flarum](http://flarum.org) extension. Add LinkedIn Oauth option to FoF/Oauth.
+
+![luuhai48/oauth-linkedin](https://luuhai48.github.io/file/oauth-linkedin.png)
 
 ### Installation
 
